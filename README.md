@@ -3,7 +3,7 @@ https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2F
 
 
 # Kasey McGee
-[![Github](https://img.shields.io/github/followers/alkhachatryan?label=Follow&style=social)](https://github.com/Kmcgee92)
+[![Github](https://img.shields.io/github/follow/kmcgee92?logo=github&logoColor=black&style=social)]
 [![Portfolio](https://img.shields.io/website?down_color=red&down_message=Down&style=plastic&up_color=green&up_message=Live&url=https%3A%2F%2Fkmcgee92.github.io%2F)](https://kmcgee92.github.io/)
 [![Angellist](https://img.shields.io/badge/Angelist-Follow%20Me-blue)](https://angel.co/u/kasey-mcgee)
 [![Linkedin](https://img.shields.io/badge/-Kasey%20McGee-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kasey-mcgee-37aa8979/)](https://www.linkedin.com/in/kasey-mcgee-37aa8979/)
