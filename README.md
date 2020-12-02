@@ -1,12 +1,15 @@
-https://img.shields.io/github/followers/kmcgee92?logo=github&logoColor=black&style=social
-https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FKmcgee92
 
 
-# Kasey McGee
+
+
+ Kasey McGee
 [![Github](https://img.shields.io/github/followers/kmcgee92?logo=github&logoColor=black&style=social)](https://github.com/Kmcgee92)
 [![Portfolio](https://img.shields.io/website?down_color=red&down_message=Down&style=plastic&up_color=green&up_message=Live&url=https%3A%2F%2Fkmcgee92.github.io%2F)](https://kmcgee92.github.io/)
+---
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FKmcgee92)](https://twitter.com/Kmcgee92)
 [![Angellist](https://img.shields.io/badge/Angelist-Follow%20Me-blue)](https://angel.co/u/kasey-mcgee)
 [![Linkedin](https://img.shields.io/badge/-Kasey%20McGee-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kasey-mcgee-37aa8979/)](https://www.linkedin.com/in/kasey-mcgee-37aa8979/)
+--
 [![Mail](https://img.shields.io/badge/-kaseycmcgee@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:kaseycmcgee@gmail.com)
 
 ## About me 
