@@ -1,15 +1,13 @@
+https://img.shields.io/github/followers/kmcgee92?logo=github&logoColor=black&style=social
+https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FKmcgee92
 
-
-### <a href="https://www.facebook.com/kasey.mcgee.73/">Facebook</a>
-### <a href="https://twitter.com/Kmcgee92">Twitter</a>
-### <a href="https://angel.co/u/kasey-mcgee">Angellist</a>
 
 # Kasey McGee
-[![Linkedin](https://img.shields.io/website?down_color=red&down_message=Down&style=plastic&up_color=green&up_message=Live&url=https%3A%2F%2Fkmcgee92.github.io%2F)](https://kmcgee92.github.io/)
-[![Angellist](https://img.shields.io/badge/Angelist-Follow%20Me-blue)](https://angel.co/u/kasey-mcgee)
 [![Github](https://img.shields.io/github/followers/alkhachatryan?label=Follow&style=social)](https://github.com/Kmcgee92)
-[![Linkedin](https://img.shields.io/badge/-Alexey%20Khachatryan-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kasey-mcgee-37aa8979/)](https://www.linkedin.com/in/kasey-mcgee-37aa8979/)
-[![Mail](https://img.shields.io/badge/-info@khachatryan.org-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:kaseycmcgee@gmail.com)
+[![Portfolio](https://img.shields.io/website?down_color=red&down_message=Down&style=plastic&up_color=green&up_message=Live&url=https%3A%2F%2Fkmcgee92.github.io%2F)](https://kmcgee92.github.io/)
+[![Angellist](https://img.shields.io/badge/Angelist-Follow%20Me-blue)](https://angel.co/u/kasey-mcgee)
+[![Linkedin](https://img.shields.io/badge/-Kasey%20McGee-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kasey-mcgee-37aa8979/)](https://www.linkedin.com/in/kasey-mcgee-37aa8979/)
+[![Mail](https://img.shields.io/badge/-kaseycmcgee@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:kaseycmcgee@gmail.com)
 
 ## About me 
 Software Engineer as well as avid Adventurist🌲. I like to work with React / Redux and Python. I am passionate about development and look forward to what the tech world has for me next!
