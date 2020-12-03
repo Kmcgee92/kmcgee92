@@ -31,5 +31,3 @@ Software Engineer as well as avid Adventurist🌲. I like to work with React / R
 ### Interesting stats
 
 ![Kasey's stats](https://github-readme-stats.vercel.app/api?username=kmcgee92&show_icons=true)
-
-
