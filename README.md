@@ -8,16 +8,16 @@
 [![Angellist](https://img.shields.io/badge/Angelist-Follow%20Me-blue)](https://angel.co/u/kasey-mcgee)
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FKmcgee92)](https://twitter.com/Kmcgee92)
 
+ Software Engineer as well as avid Adventurist🌲. I am passionate about development and look forward to what the tech world has for me next!  
 
-## About me 
-Software Engineer as well as avid Adventurist🌲. I like to work with React / Redux and Python. I am passionate about development and look forward to what the tech world has for me next!
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</div>
 
-## Stack I work with
-<code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+## Stack I work with:
+
 <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
@@ -25,9 +25,22 @@ Software Engineer as well as avid Adventurist🌲. I like to work with React / R
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/redux/redux-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 
+-----
 
-
-### Interesting stats
-
-![Kasey's stats](https://github-readme-stats.vercel.app/api?username=kmcgee92&show_icons=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kmcgee92&theme=shadow_blue&show_icons=true" alt="Kasey's GitHub stats" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kmcgee92&theme=dark&hide_border=true" alt="Kasey's GitHub streak stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmcgee92&layout=compact&theme=dark" alt="Top Languages" height="180px"/>
+</div>
